@@ -19,7 +19,11 @@
   <title>Hello, world!</title>
 </head>
 <style>
-  
+        body {
+          background-color: #f6be7d;
+
+        }
+        /* Add this to your CSS */
   /* Add this to your CSS */
   .img-small {
     width: 50px;
@@ -144,13 +148,13 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="assets/images/ban1.jpeg" class="d-block w-100"  style="height: 300px;" alt="banner1.jpg">
+          <img src="assets/images/mcr2.jpg" class="d-block w-100"  style="height: 300px;" alt="banner1.jpg">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/ban2.jpeg" class="d-block w-100"  style="height: 300px; "alt="banner2.jpg">
+          <img src="assets/images/banermcr1.jpg" class="d-block w-100"  style="height: 300px; "alt="banner2.jpg">
         </div>
         <div class="carousel-item">
-          <img src="assets/images/ban3.jpeg" class="d-block w-100"   style="height: 300px;" alt="banner3.jpg">
+          <img src="assets/images/mcr3.jpg" class="d-block w-100"   style="height: 300px;" alt="banner3.jpg">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
